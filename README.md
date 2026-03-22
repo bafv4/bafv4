@@ -15,7 +15,5 @@ Pronouns: he/him
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=ts,react,java,spring,js,html,css,vue,vuetify" />
 
 # 🏃‍♀️ Activities:
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=bafv4&theme=vue-dark&layout=donut" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bafv4&theme=vue-dark" />
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bafv4&layout=donut)](https://github.com/bafv4)
