@@ -2,6 +2,7 @@
 趣味でたまに何か作る人外です。最近はReactばっかり触っています。
 
 ↓最近作っているもの
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bafv4&repo=minefolio)](https://github.com/bafv4/minefolio)
 
 <hr />
@@ -11,7 +12,7 @@
 Pronouns: he/him
 
 # 🌱 Skills:
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ts,react,remix,java,spring,js,html,css,vue,vuetify,c,python,nuxtjs,nextjs" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=ts,react,java,spring,js,html,css,vue,vuetify" />
 
 # 🏃‍♀️ Activities:
 <div align="left"> 
