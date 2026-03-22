@@ -12,8 +12,10 @@
 Pronouns: he/him
 
 # 🌱 Skills:
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=ts,react,java,spring,js,html,css,vue,vuetify" />
+<img alt="my skills" src="https://skillicons.dev/icons?perline=10&i=ts,react,java,spring,js,html,css,vue,vuetify" />
 
 # 🏃‍♀️ Activities:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bafv4&layout=donut)](https://github.com/bafv4)
+
+![bafv4's GitHub stats](https://github-readme-stats.vercel.app/api?username=bafv4_&show=reviews,prs_merged,prs_merged_percentage)
